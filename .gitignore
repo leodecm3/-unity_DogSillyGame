@@ -55,3 +55,4 @@ crashlytics-build.properties
 # LM
 #except the build for webGL
 !docs/*
+!docs/Build/*
