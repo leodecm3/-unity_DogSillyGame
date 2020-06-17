@@ -5,8 +5,7 @@
 [Bb]uilds/
 [Ll]ogs/
 
-#except the build for webGL
-!docs/*
+
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
@@ -49,3 +48,10 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+
+
+
+# LM
+#except the build for webGL
+!docs/*
